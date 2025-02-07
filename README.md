@@ -77,6 +77,6 @@ GitCloneした後に、そのディレクトリに入って実行する
 Docker Desktop が起動できていないため起動させる。
 
 ---
-##　参考
+##　参考資料
 https://github.com/urassh/docker-flask-app/
 https://prog-8.com/docs/git-env-win
