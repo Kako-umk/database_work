@@ -2,7 +2,7 @@
 このリポジトリの`main`ブランチにはアプリの完成版が含まれています。以下のコマンドで最新の完成コードを取得できます:
 
 bash
-git clone https://github.com/urassh/EmployeeApp
+git clone https://github.com/Kako-umk/database_work​
 
 ---
 
