@@ -1,14 +1,15 @@
 ### ☑ 最新コードの取得
 このリポジトリの`main`ブランチにはアプリの完成版が含まれています。以下のコマンドで最新の完成コードを取得できます:
 
-bash
+```bash
 git clone https://github.com/Kako-umk/database_work​
+```
 
 ---
 
 ## プロジェクト構成
 
-- **フロントエンド:** CSS
+- **フロントエンド:** HTML, CSS
 - **バックエンド:** Flask (Python)
 - **データベース:** PostgreSQL
 - **環境構築:** Docker
@@ -70,13 +71,20 @@ docker compose down --rmi all
 ## トラブルシューティング
 
 ###　no configuration file provided: not found
-実行するディレクトリにDockeccompose.ymlやDockerFileがないため、
-GitCloneした後に、そのディレクトリに入って実行する
+実行するディレクトリに`compose.yml`や`DockerFile`がないため、
+`git glone`した後に、そのディレクトリに入って実行する
 
 ### docker daemon is not running
 Docker Desktop が起動できていないため起動させる。
 
 ---
+<<<<<<< Updated upstream
 ##　参考資料
 https://github.com/urassh/docker-flask-app/
 https://prog-8.com/docs/git-env-win
+=======
+
+##　参考
+- https://github.com/urassh/docker-flask-app/
+- https://prog-8.com/docs/git-env-win
+>>>>>>> Stashed changes
