@@ -31,6 +31,7 @@ https://1drv.ms/p/c/6fc346af42772e1f/EXQxxzd3sOZLo-6cxE6kLPkBo6Qd9Xdt9X3IU45-ufU
 
 ### 環境
 - 事前に[Docker Desktop](https://www.docker.com/ja-jp/products/docker-desktop/)をインストールしておく必要がある。
+- ブラウザで使用する際はlocalhost:3000で検索をする。
 
 ### コマンド
 - このプロジェクトではDockerを使用しているので、`docker`コマンドを使用する。
