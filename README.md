@@ -78,13 +78,8 @@ docker compose down --rmi all
 Docker Desktop が起動できていないため起動させる。
 
 ---
-<<<<<<< Updated upstream
-##　参考資料
-https://github.com/urassh/docker-flask-app/
-https://prog-8.com/docs/git-env-win
-=======
 
 ##　参考
 - https://github.com/urassh/docker-flask-app/
 - https://prog-8.com/docs/git-env-win
->>>>>>> Stashed changes
+
